@@ -1,4 +1,7 @@
-# test coverage for  [koa-validate (v1.0.7)](https://github.com/RocksonZeta/koa-validate#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-koa-validate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-koa-validate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-koa-validate.svg)](https://travis-ci.org/npmtest/node-npmtest-koa-validate)
+# npmtest-koa-validate
+
+#### test coverage for  [koa-validate (v1.0.7)](https://github.com/RocksonZeta/koa-validate#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-koa-validate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-koa-validate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-koa-validate.svg)](https://travis-ci.org/npmtest/node-npmtest-koa-validate)
+
 #### A koa params validate middleware.
 
 [![NPM](https://nodei.co/npm/koa-validate.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/koa-validate)
